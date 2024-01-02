@@ -1,5 +1,5 @@
 
-//Strore
+//Store
 
 
 function App() {
