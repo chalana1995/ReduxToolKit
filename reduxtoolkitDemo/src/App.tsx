@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <h2>Redux Complete TuTorial ttt</h2>
+      <h2>Redux Complete TuTorial</h2>
     </div>
   )
 }
