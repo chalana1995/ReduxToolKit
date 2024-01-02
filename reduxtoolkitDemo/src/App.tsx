@@ -1,6 +1,4 @@
 
-//Store
-
 
 function App() {
 
